@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Deadpool & Wolverine",
+        "description": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
+        "poster": "deadpool.jpg",
+        "price": 15.99
+    },
+    {
+        "title": "A Quiet Place: Day One",
+        "description": "A Quiet Place: Day One is an upcoming American apocalyptic horror film written and directed by Michael Sarnoski, based on a story he conceived with John Krasinski.",
+        "poster": "quietplace.jpg",
+        "price": 12.99
+    },
+    {
+        "title": "Despicable Me 4",
+        "description": "Gru welcomes a new member to the family, Gru Jr., who's intent on tormenting his dad. However, their peaceful existence soon comes crashing down when criminal mastermind Maxime Le Mal escapes from prison and vows revenge against Gru.",
+        "poster": "dm4.jpg",
+        "price": 14.99
+    },
+{
+        "title": "Beetlejuice 2",
+        "description": "Three generations of the Deetz family return home to Winter River after an unexpected family tragedy. Still haunted by Beetlejuice, Lydia's life soon gets turned upside down when her rebellious teenage daughter discovers a mysterious portal to the afterlife.",
+        "poster": "beetlejuice.jpg",
+        "price": 12.99
+    },
+{
+        "title": "Venom: The Last Dance",
+        "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "poster": "venom.jpg",
+        "price": 14.99
+    },
+{
+        "title": "Joker: Folie à Deux",
+        "description": "Failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital. Sequel to the film Joker from 2019.",
+        "poster": "joker.jpg",
+        "price": 15.99
+    }
+]
