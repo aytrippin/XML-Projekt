@@ -36,6 +36,7 @@
         .movie-card .movie-price {
             color: #007bff;
             font-size: 16px;
+            text-decoration: none;
         }
     </style>
 </head>
@@ -75,7 +76,7 @@
                 echo '<img src="' . $movie["poster"] . '" alt="Movie Poster">';
                 echo '<div class="movie-details">';
                 echo '<p class="movie-title">' . $movie["title"] . '</p>';
-                echo '<p class="movie-price">$' . $movie["price"] . '</p>';
+                echo '<a href="#" class="movie-price">$' . $movie["price"] . '</a>';
                 echo '</div>';
                 echo '</div>';
                 echo '</div>';
